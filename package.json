@@ -2,7 +2,7 @@
   "name": "lscloud-docs",
   "version": "1.0.0",
   "private": true,
-  "homepage": "http://consolidatedutilities.github.io/lscloud-docs",
+  "homepage": "http://docs.liftstation.cloud",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.0",
